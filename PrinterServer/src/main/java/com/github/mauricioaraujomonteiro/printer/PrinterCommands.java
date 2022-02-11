@@ -1,4 +1,4 @@
-package com.github.mauricioaraujomonteiro.component2;
+package com.github.mauricioaraujomonteiro.printer;
 
 public enum PrinterCommands {
     EXIT("#EXIT#");
